@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Beijing, China</p>
+    <p>Pittsburgh, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Master's student in Robotics at Carnegie Mellon University. I received my undergraduate degree in Mathematics from Peking University. My research interests primarily lie in computer vision and robotics.
+I am a first-year Master's student in Robotics (MSR) at Carnegie Mellon University, advised by [Prof. Ji Zhang](https://frc.ri.cmu.edu/~zhangji/). I received my undergraduate degree in Mathematics from Peking University. My research interests primarily lie in computer vision and robotics.
